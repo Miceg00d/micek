@@ -1,0 +1,9 @@
+name: micek
+version: '1.0'
+main: me.micegood.micek.Micek
+api-version: '1.18'
+authors: [ mice ]
+
+commands:
+  spawnHologram:
+
